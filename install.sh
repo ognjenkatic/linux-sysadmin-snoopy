@@ -8,3 +8,4 @@ mkdir -p $INSTALL_DIR
 
 cp -r Images $INSTALL_DIR/Images
 cp -r Scripts $INSTALL_DIR/Scripts
+cp ./conky.conf $INSTALL_DIR/
